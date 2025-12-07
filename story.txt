@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 story
-=======
->>>>>>> chap1
 
 chap1
 
